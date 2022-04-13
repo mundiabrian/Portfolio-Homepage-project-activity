@@ -1,0 +1,64 @@
+<!-- MUNDIA PORTFOLIO 1 WEB DEV ASSIGNMENT -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MUNDIA PORTFOLIO PROJECT</title>
+</head>
+<body ">
+    <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="#projects"></a>MY PROJECTS</li>
+        <li><a href="#services">SERVICES</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li><a href="#blog">BLOG</a></li>
+        <li><a href="#contact"></a>CONTACT</li>
+<center><h1><U>MUNDIA PORTFOLIO I ASSIGNMENT</U></h1></center>
+<hr>
+<div>
+    <h3><u>ABOUT MUNDIA</u></h3>
+   <ul>
+       <li><b>NAME: MUNDIA</b></li>
+      <li><b>EMAIL: <a href="mailto:mundiabrian687@gmail.com"></a>mundiabrian687@gmail.com</b></li>
+    <b>
+        <li>PHONE NUMBER:0793470527</li>
+        <li>COURSE:DIPLOMA IN SOFTWARE ENGINEERING</li>
+    </b>
+   </ul>
+
+
+    <p>
+
+=   </p>
+
+  <h3>Hello,Meet MUNDIA</h3>
+  <p>Software Engineering Student At Zetech University <br> Persuing Certification In Diploma In Software Engineering</p>
+  <center>  
+      <img src="my.jpg" alt="MUNDIA IMAGE" width="30%">
+  </center>
+  </div>
+</ul>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> 
+       
+ 
+<footer>
+    <div>
+        <li> <a href="facebook.com" class="fa fa-facebook">FACEBOOK</a></li>
+        <li> <a href="twitter.com" class="fa fa-twitter">TWITTER</a></li>
+        <li><a href="instagram.com">INSTAGRAM</a></li>
+        <li><a href="whatsapp.com">WHATSAPP</a></li>
+       </div>
+   &copy; Copyright 2022 Web Development I DIPLOMA IN SOFTWARE ENG.
+
+</footer>
+
+
+</body>
+</html>
